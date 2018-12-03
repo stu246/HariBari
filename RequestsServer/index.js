@@ -25,7 +25,7 @@ app.get('/getMissions', function(req, res){
 
 })
 
-//Find all the agents
+//Find all the agents from the DB
 app.get('/getAllAgents', function (req, res){
 
 })
