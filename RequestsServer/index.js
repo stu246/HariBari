@@ -20,7 +20,7 @@ app.get('/killAgent/:agentId', function(req, res){
 })
 
 // DB queries
-// Find all the missions in the DB
+// Find all the missions from the DB
 app.get('/getMissions', function(req, res){
 
 })
