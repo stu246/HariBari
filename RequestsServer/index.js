@@ -19,7 +19,7 @@ app.get('/killAgent/:agentId', function(req, res){
   res.send("Agent id is "+ req.params.agentId)
 })
 
-// DB queries
+// DB queries asdasdas
 // Find all the missions from the DB
 app.get('/getMissions', function(req, res){
 
